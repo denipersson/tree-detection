@@ -14,5 +14,5 @@ The goal of this project is to analyse the performance of the deep learning fram
 # Getting Started
 
 # Prerequisites
-Python 3.7+
-DeepForest
+- Python 3.7+
+- DeepForest
